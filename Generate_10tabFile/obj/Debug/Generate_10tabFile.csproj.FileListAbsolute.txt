@@ -8,3 +8,13 @@ C:\Users\frj\Documents\Visual Studio 2017\Projects\Generate_10tabFile\Generate_1
 C:\Users\frj\Documents\Visual Studio 2017\Projects\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.exe
 C:\Users\frj\Documents\Visual Studio 2017\Projects\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.pdb
 C:\Users\frj\Documents\Visual Studio 2017\Projects\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.csprojResolveAssemblyReference.cache
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\bin\Debug\Generate_10tabFile.exe.config
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\bin\Debug\Generate_10tabFile.exe
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\bin\Debug\Generate_10tabFile.pdb
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.csprojResolveAssemblyReference.cache
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.Form1.resources
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.Properties.Resources.resources
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.csproj.GenerateResource.Cache
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.csproj.CoreCompileInputs.cache
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.exe
+C:\Users\frj\Google Drive\GitHubRep\Generate_10tabFile\Generate_10tabFile\obj\Debug\Generate_10tabFile.pdb

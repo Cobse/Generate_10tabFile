@@ -56,10 +56,23 @@ namespace Generate_10tabFile
                     tmpString = tmpString.Insert(2, " ");
                     newFileText.Add(tmpString);
             }
-            
+
                 //READ FILE AND DO SOMETHING
-                File.WriteAllLines(fileDirOutput.Text, newFileText.ToArray());
-                Application.Exit();
+                if (File.Exists(fileDirOutput.Text) == false)
+                {
+                    string successMessage = "File written completed";
+                    File.WriteAllLines(fileDirOutput.Text, newFileText.ToArray());
+                    MessageBox.Show(successMessage);
+
+                    Application.Exit();
+                }
+                else
+                {
+                    string errorMessage = "Failed to write file, check if file name exist";
+                    MessageBox.Show(errorMessage);
+                }
+                
+                
             }
             
         }
